@@ -1,0 +1,3 @@
+# Comment to disable and Uncomment to enable java feature
+USER_FEATURES += "java"
+EXTRA_IMAGE_FEATURES:append:feature-java = " java"
